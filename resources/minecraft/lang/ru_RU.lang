@@ -2,27 +2,27 @@
 
 # Quest.0 - §d§3§2§1§lYour first night
 gtnh.quest0.name=§d§3§2§1§lВаша первая ночь
-gtnh.quest0.desc=Ваша первая задача - найти еду и ночлег. Ночи будут жестокими, потому что в этой сборке тёмная и жестокая ночь. Вероятно, было бы неплохо собрать немного еды сейчас...%n%n§lПримечание: вам не нужно хранить эту книгу, вы можете использовать тильду, чтобы открывать квесты без книги.%N§5§5§o§o§n§m§m§n§n§l§n§e§d§c§b§a§9§8§8§7§6§5§4§r%nМы также ведём вики которую можно найти по адресу§E§a§6§4https://gtnh.miraheze.org/wiki/Main_Page §rобязательно посмотрите её.
+gtnh.quest0.desc=Ваша первая задача - найти еду и ночлег. Ночи будут не простыми, в этой сборке они гораздо темнее и намного опаснее. Вероятно, было бы неплохим решением собрать немного еды сейчас...%n%n§lПримечание: вам не нужно хранить эту книгу, ты можешь использовать тильду (~), чтобы открывать квесты.%N§5§5§o§o§n§m§m§n§n§l§n§e§d§c§b§a§9§8§8§7§6§5§4§r%nМы также ведём вики, которую можно найти по адресу§E§a§6§4https://gtnh.miraheze.org/wiki/Main_Page §rобязательно посмотрите её.
 
 # Quest.1 - §1§lWhere is the flint?
 gtnh.quest1.name=§1§lГде же кремний?
-gtnh.quest1.desc=Как вы могли знать, копая гравий, гравий не будет из него выпадать. Однако, здесь есть... рецепт для этого. Найдите кремний в NEI и скрафтите его!
+gtnh.quest1.desc=Как ты мог знать, копая гравий, гравий не будет из него выпадать. Однако, здесь есть... рецепт для этого. Найдите кремний в NEI и скрафтите его!
 
 # Quest.2 - §1§lSticks 'n Stones
 gtnh.quest2.name=§1§lПалки да камни
 gtnh.quest2.desc=К счастью для тебя, эта книжка имеет встроенную подсветку. В большинстве случаев, ты будешь читать ее пока пережидаешь ночь. Однако сейчас, сходи и собери немного гравия и дерева. Имей в виду, что тебе нужна еда, так что самое время задуматься о грядках из HarvestCraft (Сохрани несколько овощей на семена)
 
 # Quest.3 - §1§lStorage for days
-gtnh.quest3.name=§1§lStorage for days
-gtnh.quest3.desc=Now that you've unlocked 3x3 crafting, it's about time to make some storage for your goods. Take some of your wood, and craft a chest. You will need 4 wood, 4 planks and 1 flint.
+gtnh.quest3.name=§1§lСундуки на все времена
+gtnh.quest3.desc=Теперь, когда вам доступен крафтинг 3х3, хорошее время подумать о хранении ваших ващей и ресурсов. Возьмите немного дерева и смастерите сундук. Вам нужно 4 бревна, 4 доски и 1 кремний. 
 
 # Quest.4 - §1§lMain Quests and Secondary Quests
-gtnh.quest4.name=§1§lMain Quests and Secondary Quests
-gtnh.quest4.desc=Now that you have made it this far notice the two new quests. See how these two quests look different? The quest with a crown is a main quest and is linked to other main quests by a thick line. You must complete the main quests to unlock the next tier. The other quest is an optional quest, and is not needed to unlock new tiers. However, optional quests often introduce you to useful items or processes.%n%nNot all main quests have a connecting line to guide you through your adventure because of book size. If there is not an obvious linked main quest at any point, try completing some of the other main quests available to you to progress.%n%nWhat are these coins? You can use them to purchase things in the Coins tab. In case you started in a bad biome, I'll give you enough coins to purchase some saplings.
+gtnh.quest4.name=§1§lОсновные и второстепенные задания
+gtnh.quest4.desc=Теперь, когда ты закончил предыдущее задание, вам открылось два новых. Посмотрите внимательно.. заметили? Их иконки выглядит по-разному. Задачи с короной - основные. Все основные задачи соединяет одна линия. Ты должен закончить основную ветку чтобы открыть новый уровень развития. Однако, второстепенные задачи часто рассказывают вам о полезных вещах или процессах.%n%nНе все главные квесты соединены линией, показывающей ваш путь приключения. Это связано с ограничением размером книги. Если у вас нет доступных главных заданий, попробуйте выполнить главные задачи в других вкладках книжки.%n%nДля чего нужны монеты? С помощью них, ты можешь покупать полезные материалы, предметы и вещи. Ты мог появится не в самом лучшем биоме, поэтому я выдал достаточное количество монеток для того, чтобы ты мог купить саженцы или или семена.
 
 # Quest.5 - §1§lToolsz
-gtnh.quest5.name=§1§lTools
-gtnh.quest5.desc=Now that you've got a shelter, crafting table, and a place to store your items, you should make some tools. (Unless you'd like to continue punching trees with your bare hand...)%n%nNOTE: Make sure to use vanilla sticks, not Natura sticks.
+gtnh.quest5.name=§1§lИнструментарий
+gtnh.quest5.desc=Что ж, теперь у тебя есть убежище, верстак и место для хранения вещей. Теперь нужно сделать инструменты. (Если, конечно, ты не хочешь дальше продолжать ломать деревья своей сильной рукой)%n%nВАЖНО: Убедись, что используешь палки не из мода Nature.
 
 # Quest.6 - §1§lYou reap...
 gtnh.quest6.name=§1§lYou reap...
